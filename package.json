@@ -1,0 +1,14 @@
+{
+  "name": "stylelint-config-somethingdigital",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sdinteractive/stylelint-config-somethingdigital",
+  "author": "Something Digital",
+  "license": "MIT",
+  "peerDependencies": {
+    "stylelint": "^7.9.0"
+  },
+  "dependencies": {
+    "stylelint-config-standard": "^16.0.0"
+  }
+}
