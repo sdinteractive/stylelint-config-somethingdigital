@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-somethingdigital",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "index.js",
   "repository": "https://github.com/sdinteractive/stylelint-config-somethingdigital",
   "author": "Something Digital",
